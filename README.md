@@ -1,8 +1,8 @@
 # TheNightFuryBOT
 Polski smoczy bot Discord. Napisany w Rubym.
-# Komendy
+## Komendy
 Komendy główne:
-  help - to co widzisz! 
+  help - wyświetla pomoc
   ping - pong!
   info - informacje o bocie
   latlog - zmiany w ostatniej wersji
