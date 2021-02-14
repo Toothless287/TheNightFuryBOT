@@ -1,2 +1,2 @@
 # TheNightFuryBOT
-elo
+Polski bot Discord. Napisany w Rubym.
