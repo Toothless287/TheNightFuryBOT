@@ -1,2 +1,3 @@
 # TheNightFuryBOT
-Polski bot Discord. Napisany w Rubym.
+Polski smoczy bot Discord. Napisany w Rubym.
+# Komendy
