@@ -1,16 +1,7 @@
 # TheNightFuryBOT
 Polski smoczy bot Discord. Napisany w Rubym.
-## Komendy
-Komendy główne:
-  help - wyświetla pomoc
-  ping - pong!
-  info - informacje o bocie
-  latlog - zmiany w ostatniej wersji
-Komendy 4FUN:
-  iq - sprawdza twoje IQ
-  gif - wyświetla losowego gifa
-  kawał - wyświetla losowy kawał 
-Smocze komendy:
-  klasa <nazwa> - info o klasie
-  <gatunek> - info o smoku (niedokończone)
-  staty <gatunek> - statystyki smoka (niedokończone)
+# O bocie
+Twórca bota: X_x_Toothless_x_X#5580
+Serwer support: https://discord.gg/sdWGdPjhK4
+Strona bota: https://thenightfurybot.zyrosite.com/
+Zaproszenie na serwer (OAuth2): https://discord.com/oauth2/authorize?client_id=803254676778254346&scope=bot&permissions=8
