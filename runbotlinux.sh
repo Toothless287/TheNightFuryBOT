@@ -1,1 +1,1 @@
-ruby '<sciezka_pliku_bota>'
+ruby TheNightFuryBOT.rb
