@@ -6,9 +6,10 @@ Polski smoczy bot Discord. Napisany w Rubym.
 * Strona bota: https://thenightfurybot.zyrosite.com/
 * Zaproszenie na serwer (OAuth2): https://discord.com/oauth2/authorize?client_id=803254676778254346&scope=bot&permissions=8
 ## Komendy
+* Prefiks bota: -t 
 ### Komendy główne:
 *  help - to co widzisz! 
-* ping - pong!
+*  ping - pong!
 *  info - informacje o bocie
 *  latlog - zmiany w ostatniej wersji
 ### Komendy 4FUN:
@@ -17,5 +18,5 @@ Polski smoczy bot Discord. Napisany w Rubym.
 *  kawał - wyświetla losowy kawał 
 ### Smocze komendy:
 *  klasa <nazwa> - info o klasie
-*  <gatunek> - info o smoku Funkcja jeszcze niedokończona! 
-*  staty <gatunek> - statystyki smoka funkcja jeszcze niedokończona
+*  <gatunek> - info o smoku (Funkcja jeszcze niedokończona!)
+*  staty <gatunek> - statystyki smoka (Funkcja jeszcze niedokończona!)
