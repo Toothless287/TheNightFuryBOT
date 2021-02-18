@@ -5,7 +5,7 @@ Polski smoczy bot Discord. Napisany w Rubym.
 * Serwer support: https://discord.gg/sdWGdPjhK4
 * Zaproszenie na serwer (OAuth2): https://discord.com/oauth2/authorize?client_id=803254676778254346&scope=bot&permissions=8
 ## Komendy
-* Prefiks bota: -t 
+* Prefiks bota: -t (na razie globalny)
 ### Komendy główne:
 *  help - to co widzisz! 
 *  ping - pong!
