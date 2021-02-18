@@ -17,6 +17,6 @@ Polski smoczy bot Discord. Napisany w Rubym.
 *  gif - wyświetla losowego gifa
 *  kawał - wyświetla losowy kawał 
 ### Smocze komendy:
-*  klasa <nazwa> - info o klasie
-*  <gatunek> - info o smoku (Funkcja jeszcze niedokończona!)
-*  staty <gatunek> - statystyki smoka (Funkcja jeszcze niedokończona!)
+*  klasa 'nazwa' - info o klasie
+*  'gatunek' - info o smoku (Funkcja jeszcze niedokończona!)
+*  staty 'gatunek' - statystyki smoka (Funkcja jeszcze niedokończona!)
