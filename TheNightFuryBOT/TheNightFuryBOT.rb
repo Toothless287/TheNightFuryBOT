@@ -29,15 +29,8 @@ bot.message(with_text: "-t latlog") do |event|
   Ulepszenia komend"
 end
 bot.message(with_text: "-t info") do |event|
-  event.respond "Twórca bota: X_x_Toothless_x_X#5580
-Bot został napisany w języku Ruby, z pomocą gema discordrb
-Wersja: 0.5.1
-Źródło wiedzy o smokach wykorzystane podczas prac nad botem: https://jakwytresowacsmoka.fandom.com/wiki/Jak_Wytresować_Smoka_Wiki 
-Serwer developerski: https://discord.gg/sdWGdPjhK4
-Link zaproszeniowy bota: https://discord.com/oauth2/authorize?client_id=803254676778254346&scope=bot&permissions=8"
+  event.respond nil
   warn("[INFO]Użyto komendy info!")
-
-  #Link zaproszeniowy bota: https://discord.com/oauth2/authorize?client_id=803254676778254346&scope=bot&permissions=8
 end
 #komendy 4FUN
 
@@ -663,5 +656,3 @@ bot.ready() do |event|
 end
 bot.run
 
-#notes
-#Do zrobienia komendy muzyczne i staty smoków i gatunki
