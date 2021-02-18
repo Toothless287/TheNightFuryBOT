@@ -657,14 +657,7 @@ bot.message(with_text: "-t staty Eruptodon") do |event|
   💥 zacisk szczęk = 14"
   warn("[INFO]Użyto komendy staty Eruptodon")
 end
-#komendy developera
 
-bot.message("-t stop") do |event|
-  event.respond "Trwa wyłączanie bota...."
-  bot.stop
-end
-
-#end
 bot.ready() do |event|
   bot.watching = ["Jak Wytresować Smoka", "Jak Wytresować Smoka 2", "Jak Wytresować Smoka 3", "Serwer dla fanów JWS", "v0.5.1", "TheNightFuryBOT | DEV", "Księga Smoków"].sample
 end
