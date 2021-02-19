@@ -1,5 +1,5 @@
 require "discordrb"
-bot = Discordrb::Commands::CommandBot.new token: "ODAzMjU0Njc2Nzc4MjU0MzQ2.YA7HNg.wazAjDyzQzwN9q9SGb5Xpc-EXo0", prefix: "-t"
+bot = Discordrb::Commands::CommandBot.new token: "tokenbota", prefix: "-t"
 
 #komendy główne
 bot.command :ping do |event|
@@ -40,19 +40,7 @@ end
 bot.command :latlog do |event|
   event.respond ("**v0.6** \n Dodano komendy: myid,srvid,region,bany,liczba,botuser,invite... \n No i jedna duża zmiana w kodzie - bot z Discordrb::Bot.new zmienił się na Discordrb::CommandBot.new")
 end
-bot.command :info do |event|
-  event.respond "Twórca bota: X_x_Toothless_x_X#5580
-Bot został napisany w języku Ruby, z pomocą gema discordrb
-Wersja: 0.6
-Źródło wiedzy o smokach wykorzystane podczas prac nad botem: https://jakwytresowacsmoka.fandom.com/wiki/Jak_Wytresować_Smoka_Wiki 
-Serwer support: https://discord.gg/sdWGdPjhK4"
-  warn("[INFO]Użyto komendy info!")
-  bot.command(:invite, chain_usable: true) do |event|
-    invite = "https://discord.com/oauth2/authorize?client_id=803254676778254346&scope=bot&permissions=8"
-    event.respond invite
-  end
-  #Link zaproszeniowy bota: https://discord.com/oauth2/authorize?client_id=803254676778254346&scope=bot&permissions=8
-end
+
 #komendy 4FUN
 
 bot.command :iq do |event|
@@ -698,10 +686,8 @@ bot.command :statyEruptodon do |event|
   💥 zacisk szczęk = 14"
   warn("[INFO]Użyto komendy staty Eruptodon")
 end
-#komendy developera
 
-#end
 bot.ready() do |event|
-  bot.watching = "TheNightFuryBOT | Support"
+  bot.watching = nil
 end
 bot.run

@@ -666,9 +666,8 @@ end
 
 #end
 bot.ready() do |event|
-  bot.watching = ["Jak Wytresować Smoka", "Jak Wytresować Smoka 2", "Jak Wytresować Smoka 3", "Serwer dla fanów JWS", "v0.5.1", "TheNightFuryBOT | DEV", "Księga Smoków"].sample
+  bot.watching = nil
 end
 bot.run
 
-#notes
-#Do zrobienia komendy muzyczne i staty smoków i gatunki
+
