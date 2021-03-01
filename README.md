@@ -1,5 +1,5 @@
 # TheNightFuryBOT
-Polski smoczy bot Discord. Napisany w Rubym.
+Polski smoczy bot Discord. Napisany w Rubym. Open-source.
 ## O bocie
 * Twórca bota: X_x_Toothless_x_X#5580
 * Serwer support: https://discord.gg/sdWGdPjhK4
@@ -7,7 +7,7 @@ Polski smoczy bot Discord. Napisany w Rubym.
 ## Komendy
 * Prefiks bota: -t 
 ### Komendy główne:
-*  help - to co widzisz! 
+*  help - wyświetla pomoc 
 *  ping - pong!
 *  info - informacje o bocie
 *  latlog - zmiany w ostatniej wersji
@@ -17,5 +17,5 @@ Polski smoczy bot Discord. Napisany w Rubym.
 *  kawał - wyświetla losowy kawał 
 ### Smocze komendy:
 *  klasa 'nazwa' - info o klasie
-*  'gatunek' - info o smoku (Funkcja jeszcze niedokończona!)
-*  staty 'gatunek' - statystyki smoka (Funkcja jeszcze niedokończona!)
+*  'gatunek' - info o smoku 
+*  staty 'gatunek' - statystyki smoka
